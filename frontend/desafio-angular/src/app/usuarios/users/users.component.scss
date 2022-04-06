@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.loading-spinner {
+  padding: 25px;
+  background: rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

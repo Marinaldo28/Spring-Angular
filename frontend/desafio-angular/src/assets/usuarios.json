@@ -1,0 +1,9 @@
+[
+
+  {"_id": "1", "name": "João", "email": "joao@gmail.com", "phone": "99999-9999"},
+  {"_id": "2", "name": "Eliana", "email": "eliana@gmail.com", "phone": "98888-8888"},
+  {"_id": "3", "name": "Juliana", "email": "juliana@gmail.com", "phone": "97777-7777"},
+  {"_id": "4", "name": "Andre", "email": "andre@gmail.com", "phone": "96666-6666"},
+  {"_id": "5", "name": "Maria", "email": "maria@gmail.com", "phone": "95555-5555"}
+
+]
